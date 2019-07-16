@@ -12,6 +12,8 @@
 
 <style>
   /* CSS */
+  @import "~element-ui/lib/theme-chalk/index.css";
+
   html {
     overflow-y: auto;
   }
